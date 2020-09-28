@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DeveloperMultiCamp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="community_description">Description</string>
+    <string name="community_leader">Leader</string>
+</resources>

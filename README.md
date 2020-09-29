@@ -1,3 +1,0 @@
-# androidKotlin
-# AndroidKotlin
-# CommunityShowing
